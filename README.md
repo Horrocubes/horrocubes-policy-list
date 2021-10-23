@@ -7,7 +7,7 @@
   Commons 3.0 Attributions license</a></sup></sup></sup></sup>
 </p>
  
-<p align="center"><b>Horrocubes Policy Lost</b></p>
+<p align="center"><b>Horrocubes Policy List</b></p>
 
 Every Horrocube have a distinct policy id, this is because Horrocubes NFTs leverage the power of Plutus minting policy scripts to create true NFTs; once these NFTs are minted, it is impossible to create a duplicate. The minting policy of this type of NFT takes and validates as a parameter a specific UXTO and makes sure the UTXO is spent during the minting transaction.
 
