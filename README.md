@@ -26,4 +26,4 @@ Files Description
 License
 -------
 
-This contents of this repository is released under the terms of the Apache-2.0 license. See [LICENSE](LICENSE) for more information or see https://www.apache.org/licenses/LICENSE-2.0.html.
+This contents of this repository is released under the terms of the Apache-2.0 license. See [LICENSE](LICENSE) for more information or see https://www.apache.org/licenses/LICENSE-2.0.html. 
