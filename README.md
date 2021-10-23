@@ -14,3 +14,17 @@ Every Horrocube have a distinct policy id, this is because Horrocubes NFTs lever
 You can learn more about it in the following lecture that Lars Brünjes made for the Plutus Pioneer Program:
 
 https://www.youtube.com/watch?v=6VbhY162GQA
+
+Files Description
+-------
+
+| File          | Description   |
+| ------------- | ------------- |
+| card-strings.json  | Translation Strings for card names |
+| policies.list  | The list of minted policies |
+
+License
+-------
+
+This contents of this repository is released under the terms of the Apache-2.0 license. See [LICENSE](LICENSE) for more
+information or see https://www.apache.org/licenses/LICENSE-2.0.html.
