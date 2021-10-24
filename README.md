@@ -20,7 +20,7 @@ Files Description
 
 | File          | Description   |
 | ------------- | ------------- |
-| card-strings.json  | Translation Strings for card names |
+| card-strings.json  | Translation Strings for card names | 
 | policies.list  | The list of minted policies |
 
 License
