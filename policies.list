@@ -40,6 +40,18 @@
     "policyId": "160b85e53e25ef49272c421f04b702bc32184d102865fd1dc8815cde"
   },
   {
+    "assetName": "Horrocube06605xCCCCCCD6",
+    "policyId": "160b85e53e25ef49272c421f04b702bc32184d102865fd1dc8815cde"
+  },
+  {
+    "assetName": "Horrocube00310xCCCCCCD8",
+    "policyId": "160b85e53e25ef49272c421f04b702bc32184d102865fd1dc8815cde"
+  },
+  {
+    "assetName": "Horrocube03480xCCCCCCD9",
+    "policyId": "160b85e53e25ef49272c421f04b702bc32184d102865fd1dc8815cde"
+  },
+  {
     "assetName": "Horrocube06545x00000002",
     "policyId": "160b85e53e25ef49272c421f04b702bc32184d102865fd1dc8815cde"
   },
@@ -1545,6 +1557,10 @@
   },
   {
     "assetName": "Horrocube05984x33333353",
+    "policyId": "160b85e53e25ef49272c421f04b702bc32184d102865fd1dc8815cde"
+  },
+  {
+    "assetName": "Horrocube06953xCCCCCCD7",
     "policyId": "160b85e53e25ef49272c421f04b702bc32184d102865fd1dc8815cde"
   },
   {
