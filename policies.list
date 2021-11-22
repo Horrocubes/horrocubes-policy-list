@@ -792,6 +792,10 @@
     "policyId": "6545ab3e6128bb4de1db6f8f99b55e28ddc97886e196e13f3c213e9c"
   },
   {
+    "assetName": "Horrocube00491x80000015",
+    "policyId": "160b85e53e25ef49272c421f04b702bc32184d102865fd1dc8815cde"
+  },
+  {
     "assetName": "Horrocube02075",
     "policyId": "91af71f5059ea5649ccf9acf45eaaa76d9ba599f81dbfcb71e5ecedc"
   },
@@ -1833,6 +1837,10 @@
   },
   {
     "assetName": "Horrocube01890x33333391",
+    "policyId": "160b85e53e25ef49272c421f04b702bc32184d102865fd1dc8815cde"
+  },
+  {
+    "assetName": "Horrocube07123x33333399",
     "policyId": "160b85e53e25ef49272c421f04b702bc32184d102865fd1dc8815cde"
   },
   {
